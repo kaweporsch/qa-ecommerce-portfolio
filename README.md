@@ -4,7 +4,7 @@ Este repositório contém um portfólio prático de **QA (Quality Assurance)** f
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 
 Demonstrar minha capacidade de:
 
@@ -15,14 +15,14 @@ Demonstrar minha capacidade de:
 
 ---
 
-## 🧪 Sistema testado
+##  Sistema testado
 
 - Site: https://www.saucedemo.com  
 - Tipo: E-commerce demo
 
 ---
 
-## 🧩 BDD / Gherkin
+##  BDD / Gherkin
 
 Os cenários BDD (.feature) foram escritos em inglês, seguindo o padrão mais
 utilizado em projetos de automação e em times com colaboração internacional.
@@ -32,7 +32,7 @@ legível tanto para áreas técnicas quanto de negócio.
 
 ---
 
-## ✅ Como executar os testes (passo a passo)
+##  Como executar os testes (passo a passo)
 
 1. Acesse o site: https://www.saucedemo.com  
 2. Execute os casos de teste descritos em `casos-de-teste/`
@@ -43,5 +43,5 @@ legível tanto para áreas técnicas quanto de negócio.
 
 ---
 
-## 📁 Estrutura do repositório
+##  Estrutura do repositório
 
