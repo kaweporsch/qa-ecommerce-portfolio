@@ -32,3 +32,35 @@ Verificar se o sistema impede login com senha incorreta.
 
 **Resultado esperado:**  
 Sistema deve exibir mensagem de erro informando credenciais inválidas.
+
+---
+
+## CT-003 – Login com usuário vazio
+
+**Objetivo:**  
+Verificar se o sistema impede login sem usuário.
+
+**Passos:**
+1. Acessar https://www.saucedemo.com
+2. Deixar o campo usuário vazio
+3. Inserir senha válida
+4. Clicar em "Login"
+
+**Resultado esperado:**  
+Sistema deve exibir mensagem informando que o usuário é obrigatório.
+
+---
+
+## CT-004 – Login com senha vazia
+
+**Objetivo:**  
+Verificar se o sistema impede login sem senha.
+
+**Passos:**
+1. Acessar o site
+2. Inserir usuário válido
+3. Deixar o campo senha vazio
+4. Clicar em "Login"
+
+**Resultado esperado:**  
+Sistema deve exibir mensagem informando que a senha é obrigatória.
