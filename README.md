@@ -22,6 +22,16 @@ Demonstrar minha capacidade de:
 
 ---
 
+## 🧩 BDD / Gherkin
+
+Os cenários BDD (.feature) foram escritos em inglês, seguindo o padrão mais
+utilizado em projetos de automação e em times com colaboração internacional.
+
+Esses arquivos representam o comportamento esperado do sistema de forma
+legível tanto para áreas técnicas quanto de negócio.
+
+---
+
 ## ✅ Como executar os testes (passo a passo)
 
 1. Acesse o site: https://www.saucedemo.com  
