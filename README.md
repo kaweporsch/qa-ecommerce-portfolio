@@ -1,28 +1,37 @@
-# Portfólio QA – E-commerce
+# Portfólio QA – Comércio eletrônico
 
-Este repositório contém um portfólio prático de **Quality Assurance (QA)** focado em testes manuais de um sistema de **e-commerce**, simulando cenários reais utilizados em ambientes profissionais.
+Este repositório contém um portfólio prático de **QA (Quality Assurance)** focado em **testes manuais** em um sistema de e-commerce de demonstração, simulando cenários reais usados em ambientes profissionais.
+
+---
 
 ## 🎯 Objetivo
+
 Demonstrar minha capacidade de:
+
 - Planejar casos de teste manuais
 - Identificar falhas funcionais
 - Documentar bugs de forma clara e objetiva
 - Pensar como QA em um contexto real de produto digital
 
-## 🧪 Escopo dos Testes
-Os testes foram realizados sobre o sistema de demonstração:
-- 🔗 https://www.saucedemo.com
+---
 
-Funcionalidades testadas:
-- Login
-- Validação de credenciais
-- Comportamento do sistema em cenários negativos
+## 🧪 Sistema testado
 
-## 📂 Estrutura do Repositório
+- Site: https://www.saucedemo.com  
+- Tipo: E-commerce demo
 
-```text
-📁 casos-de-teste
- └── login.md
+---
 
-📁 relatorios-de-erros
- └── bug-login-senha-vazia.md
+## ✅ Como executar os testes (passo a passo)
+
+1. Acesse o site: https://www.saucedemo.com  
+2. Execute os casos de teste descritos em `casos-de-teste/`
+3. Compare o comportamento do sistema com o **resultado esperado**
+4. Caso encontre falhas, registre um bug report em `relatorios-de-erros/`
+
+> Dica: execute os testes em janela anônima e, se possível, em mais de um navegador (Chrome/Edge).
+
+---
+
+## 📁 Estrutura do repositório
+
